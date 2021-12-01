@@ -1,19 +1,19 @@
 /**
  * An image filter to make the image a bit lighter.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 1.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class LighterFilter extends Filter
 {
-	/**
-	 * Constructor for objects of class LighterFilter.
+    /**
+     * Constructor for objects of class LighterFilter.
      * @param name The name of the filter.
-	 */
-	public LighterFilter(String name)
+     */
+    public LighterFilter(String name)
     {
         super(name);
-	}
+    }
 
     /**
      * Apply this filter to an image.

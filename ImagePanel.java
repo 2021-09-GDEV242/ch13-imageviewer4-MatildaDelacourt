@@ -8,8 +8,8 @@ import java.awt.image.*;
  * of setting an OFImage that will be displayed on the surface of this
  * component.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 1.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class ImagePanel extends JComponent
 {

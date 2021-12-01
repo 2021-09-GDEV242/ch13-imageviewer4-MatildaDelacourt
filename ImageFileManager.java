@@ -9,8 +9,8 @@ import java.io.*;
  * The files on disk can be in JPG or PNG image format. For files written
  * by this class, the format is determined by the constant IMAGE_FORMAT.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 2.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class ImageFileManager
 {

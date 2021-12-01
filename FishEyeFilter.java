@@ -4,8 +4,8 @@ import java.awt.Color;
  * An image filter to create an effect similar to a fisheye camera lens.
  * (Works especially well on portraits.)
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 1.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class FishEyeFilter extends Filter
 {

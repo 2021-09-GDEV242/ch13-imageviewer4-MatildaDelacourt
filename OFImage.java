@@ -5,8 +5,8 @@ import javax.swing.*;
 /**
  * OFImage is a class that defines an image in OF (Objects First) format.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 2.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class OFImage extends BufferedImage
 {

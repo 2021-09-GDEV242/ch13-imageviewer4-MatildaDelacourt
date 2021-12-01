@@ -1,8 +1,8 @@
 /**
  * An image filter to make the image a bit darker.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 1.0
+ * @author Matilda Delacourt
+ * @version 10.30.2021
  */
 public class DarkerFilter extends Filter
 {
